@@ -4,6 +4,8 @@ ct4101---assignment-1-brandon-toews created by GitHub Classroom
 Programming Maths Project
 Name: Brandon Toews
 
+C# Scripts are located in the [Assets](Assets/) folder of this repo.
+
 Camera Controls:
 W - Forward
 S - Backward
