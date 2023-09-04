@@ -33,6 +33,9 @@ In this mode the user can create a limited amount of cubes and spheres using the
 When an object is clicked on it is selected then the object canvas is enabled allowing the user to move the object using the various options
 they choose. Must turn Gizmos on in Game View to see the line drawn for the "Launcher Script".
 
+# Video Walkthrough
+![](ModesofMotionWalkthrough.mp4){#video-walkthrough}
+
 ## Documentation, Tutorials, and websites used for reference...
 
 Unity Documentation
