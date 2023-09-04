@@ -17,10 +17,10 @@ E - Up \
 Q - Down 
 
 Z - Look Left \
-X - Look Right \
+X - Look Right
 
 R - Look Up \
-F - Look Down \
+F - Look Down
 
 Esc - Escape Program
 
@@ -32,9 +32,6 @@ In this mode the user can create a limited amount of cubes and spheres using the
 **Object Canvas** \
 When an object is clicked on it is selected then the object canvas is enabled allowing the user to move the object using the various options
 they choose. Must turn Gizmos on in Game View to see the line drawn for the "Launcher Script".
-
-# Video Walkthrough
-![](ModesofMotionWalkthrough.mp4){#video-walkthrough}
 
 ## Documentation, Tutorials, and websites used for reference...
 
