@@ -6,13 +6,13 @@ Name: Brandon Toews
 
 C# Scripts are located in the [Assets](Assets/) folder of this repo.
 
-Camera Controls:
-W - Forward
-S - Backward
-A - Strafe Left
-D - Strafe Right
-E - Up
-Q - Down
+Camera Controls: \
+W - Forward \
+S - Backward \
+A - Strafe Left \
+D - Strafe Right \
+E - Up \
+Q - Down \
 
 Z - Look Left
 X - Look Right
