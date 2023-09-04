@@ -17,10 +17,10 @@ E - Up \
 Q - Down 
 
 Z - Look Left \
-X - Look Right \
+X - Look Right
 
 R - Look Up \
-F - Look Down \
+F - Look Down
 
 Esc - Escape Program
 
