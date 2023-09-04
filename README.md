@@ -34,7 +34,7 @@ When an object is clicked on it is selected then the object canvas is enabled al
 they choose. Must turn Gizmos on in Game View to see the line drawn for the "Launcher Script".
 
 # Video Walkthrough
-![](ModesofMotionWalkthrough.mp4){#video-walkthrough}
+![](ModesofMotionWalkthrough.mp4)
 
 ## Documentation, Tutorials, and websites used for reference...
 
